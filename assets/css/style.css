@@ -1,0 +1,94 @@
+#header-button {
+    border: 1px solid black;
+    border-radius: none;
+    font-size: 20px;
+}
+
+#header-top {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: fixed;
+}
+
+.column {
+    padding-top: 250px;
+    font-size: 20px;
+}
+
+.toriest {
+    text-decoration: none;
+    padding-left: 30px;
+}
+
+#acadmy {
+    float: left;
+
+}
+
+#courses {
+    text-decoration: none;
+}
+
+#header-form {
+    float: left;
+    text-align: start;
+    width: 700px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#image {
+    background-image: url('https://torusacademia.com/uploads/system/home-banner.jpg');
+    background-size: cover;
+    height: 760px;
+    width: 100%;
+}
+
+.image-tontent {
+    position: absolute;
+    left: 20px;
+    bottom: -50px
+}
+
+#icon-text {
+    background: linear-gradient(#6F1E51, #B53471, #ED4C67);
+}
+
+#form-content {
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+#form-image-all {
+    background-color: brown;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#torus-form {
+    padding: 15px;
+    position: relative;
+    top: 130px;
+}
+
+body {
+    background-color: #f5f6fa;
+}
+
+#footer-links {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#line:after {
+    background-color: #ff7f50;
+    content: "";
+    display: block;
+    width: 100px;
+    height: 3px;
+    margin: 20px auto;
+}
+
